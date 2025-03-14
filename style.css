@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+nav {
+    height: 140px;
+    display: flex;
+    
+    background-color: rgb(6, 15, 68);
+    padding: 10px;
+}
+
+.logo {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+
+   
+}
+
+nav img {
+    
+    margin-bottom: 5px;
+}
+
+nav h1 {
+    font-size: 24px;
+    color: #ffffff;
+    position: relative;
+    padding-left: 20px;
+    letter-spacing: 1px;
+}
+
+.titulo {
+    font-size: 20px;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+
